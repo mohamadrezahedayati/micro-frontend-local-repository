@@ -1,0 +1,6 @@
+[submodule "app-one-local-repository"]
+	path = app-one-local-repository
+	url = https://github.com/mohamadrezahedayati/app-one-local-repository.git
+[submodule "app-two-local-repository"]
+	path = app-two-local-repository
+	url = https://github.com/mohamadrezahedayati/app-two-local-repository.git
