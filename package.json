@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mohamadrezahedayati/micro-frontend-local-repository#readme",
   "dependencies": {
+    "@mohamad-org/app-one": "^1.0.0",
     "user": "*"
   }
 }
