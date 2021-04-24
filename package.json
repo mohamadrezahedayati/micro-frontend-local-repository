@@ -1,0 +1,22 @@
+{
+  "name": "@mohamad-org/micro-frontend-local-repository",
+  "version": "1.0.0",
+  "description": "micro front via private repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamadrezahedayati/micro-frontend-local-repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamadrezahedayati/micro-frontend-local-repository/issues"
+  },
+  "homepage": "https://github.com/mohamadrezahedayati/micro-frontend-local-repository#readme",
+  "dependencies": {
+    "user": "*"
+  }
+}
